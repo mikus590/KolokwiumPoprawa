@@ -1,0 +1,14 @@
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\bin\Debug\netcoreapp2.1\KolokwiumPoprawa.deps.json
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\bin\Debug\netcoreapp2.1\KolokwiumPoprawa.runtimeconfig.json
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\bin\Debug\netcoreapp2.1\KolokwiumPoprawa.runtimeconfig.dev.json
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\bin\Debug\netcoreapp2.1\KolokwiumPoprawa.dll
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.csprojAssemblyReference.cache
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.csproj.CoreCompileInputs.cache
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.RazorAssemblyInfo.cache
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.RazorAssemblyInfo.cs
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.AssemblyInfoInputs.cache
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.AssemblyInfo.cs
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.RazorTargetAssemblyInfo.cache
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\bin\Debug\netcoreapp2.1\KolokwiumPoprawa.pdb
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.dll
+D:\Studia\APBD\KolokwiumPoprawa\KolokwiumPoprawa\KolokwiumPoprawa\obj\Debug\netcoreapp2.1\KolokwiumPoprawa.pdb
